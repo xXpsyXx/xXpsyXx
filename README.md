@@ -1,16 +1,63 @@
-## Hi there 👋
+![MasterHead](https://indoanalytica.com/static/images/banner-2.gif)
 
-<!--
-**xXpsyXx/xXpsyXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Pranay Kadam 
 
-Here are some ideas to get you started:
+### I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **Portfolio Website**
+
+- 🌱 I'm currently learning **ReactJs and NextJs**
+
+- 📫 How to reach me **pranaykadam2014@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/xXpsyXx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="xXpsyXx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranay-kadam-199391107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-kadam-199391107" height="30" width="40" /></a>
+<a href="https://twitter.com/_pranaykadam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_pranaykadam_" height="30" width="40" /></a>
+</p>
+<br>
+<br>
+
+## 🛠️ Skills & Technologies  
+
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=js,html,css,md)](https://skillicons.dev)
+
+---
+
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap)](https://skillicons.dev)
+
+---
+
+### 🧠 Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://skillicons.dev)
+
+---
+
+### ⚙️ Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,docker)](https://skillicons.dev)
+
+---
+
+### ☁️ Deployment & Hosting
+[![Cloud](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+
+---
+
+### 📦 Package Managers / Build Tools
+[![PMs](https://skillicons.dev/icons?i=npm,bun)](https://skillicons.dev)
+
+---
+
+### 🗄️ Database Tools
+[![DB Tools](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xXpsyXx&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+
