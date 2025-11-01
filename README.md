@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Pranay Kadam 
 
-### I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
+### I’m a passionate Frontend Developer 🚀 with expertise in ReactJS ⚛️. I love crafting seamless web experiences 🖥️, exploring new technologies 🛠
 
 - 🔭 I'm currently working on **Portfolio Website**
 
