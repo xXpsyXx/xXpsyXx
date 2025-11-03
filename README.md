@@ -56,8 +56,8 @@
 
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xXpsyXx&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+| Stats | Streak |
+|-------|--------|
+| <img src="https://github-readme-stats.vercel.app/api?username=xXpsyXx&show_icons=true&theme=tokyonight&hide_border=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxpsyxx&theme=tokyonight&hide_border=true" /> |
 
 
